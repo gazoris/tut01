@@ -1,0 +1,15 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "node web server tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Reza Baradaran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3"
+  }
+}
