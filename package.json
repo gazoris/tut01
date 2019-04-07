@@ -4,7 +4,8 @@
   "description": "node web server tutorial",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server.js"
   },
   "author": "Reza Baradaran",
   "license": "ISC",
